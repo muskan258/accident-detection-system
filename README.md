@@ -39,4 +39,4 @@ Accident Detection, Real-time Monitoring, Emergency Response, Android Applicatio
 
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
